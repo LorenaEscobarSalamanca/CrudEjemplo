@@ -1,0 +1,30 @@
+{
+  "name": "crudejemplo",
+  "version": "1.0.0",
+  "description": "Crud Ejemplo",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.3",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Server/index.js"
+  },
+  "author": "lorenita1640@gmail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LorenaEscobarSalamanca/CrudEjemplo.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "bugs": {
+    "url": "https://github.com/LorenaEscobarSalamanca/CrudEjemplo/issues"
+  },
+  "homepage": "https://github.com/LorenaEscobarSalamanca/CrudEjemplo#readme"
+}
